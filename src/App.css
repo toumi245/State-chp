@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.body{
+  display: 'flex';
+  width: 15vb ;
+align-items: center;
+justify-content: center;
+}
+.myphoto{
+  display: 'flex';
+  width: 15vb ;
+align-items: center;
+}
